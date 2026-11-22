@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AuraSound",
+      "hasCanvas": false,
+      "bodyTextLen": 1570,
+      "bodyTextHash": "991668174f327d0ada105d6843c978104781d3db79c236d9b65f24499607e6c9",
+      "bodyTextPrefix": "Saltar al contenido AuraSound Inicio Buscar Tu biblioteca PLAYLI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AuraSound",
+      "hasCanvas": false,
+      "bodyTextLen": 1471,
+      "bodyTextHash": "fd4693b895b7e1aa86c1ef970f5e5d9ff4cd789f11923639fe05c25838afe810",
+      "bodyTextPrefix": "Saltar al contenido AuraSound Fondo EN ROTACIÓN Blinding Lights ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
